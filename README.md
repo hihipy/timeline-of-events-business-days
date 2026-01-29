@@ -1,16 +1,25 @@
-# timeline-of-events-business-days
-A Microsoft Excel tool to help a user to chart out a timeline of events of a business occurrence. Used to ID bottlenecks in a production system. The measurement of total days is “Business Day” units.
+# Timeline of Events (Business Days)
 
-## What to do?
+A Microsoft Excel tool for charting a timeline of business events. Used to identify bottlenecks in production systems. Measures time in business day units.
 
-1. Enter "Action Item Phase" in Column A to describe the timeline of event. Write down from earliest point (Row B) to the end of the business event.
-2. Enter "Start Date" (Column B) to "End Date" (Column C) of the specific events during the timeline of events.
-3. "Further Details" (Column H) to describe the specific events during the timeline of events with strings.
+## Usage
+
+1. **Action Item Phase (Column A):** Describe each step in the timeline of events. Enter from earliest (top row) to latest (bottom row).
+
+2. **Start Date / End Date (Columns B-C):** Enter the start and end dates for each event.
+
+3. **Further Details (Column H):** Add descriptions or notes for specific events.
 
 ## Analysis
 
-Column D to Column G calculates the user inputs in "Start Date" (Column B) to "End Date" (Column C) for total amount of time of the business occurrence and tome of each steps of the business occurrence.
+Columns D through G calculate totals based on the Start Date and End Date inputs:
+- Total time for the entire business occurrence
+- Duration of each individual step
 
-Table are sortable on each column.
+All columns are sortable.
 
-timeline-of-events-business-days © 2022 by Philip Bachas-Daunert is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+## License
+
+Timeline of Events (Business Days) © 2022 Philip Bachas-Daunert
+
+Distributed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
