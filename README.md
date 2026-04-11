@@ -1,4 +1,4 @@
-# Timeline of Events (Business Days)
+# timeline-of-events-business-days
 
 A Microsoft Excel tool for charting a timeline of business events. Used to identify bottlenecks in production systems. Measures time in business day units.
 
