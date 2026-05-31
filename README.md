@@ -1,5 +1,12 @@
 # timeline-of-events-business-days
 
+[![Link Check](https://github.com/hihipy/timeline-of-events-business-days/actions/workflows/links.yml/badge.svg)](https://github.com/hihipy/timeline-of-events-business-days/actions/workflows/links.yml)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+**Built with**
+
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+
 A Microsoft Excel tool for charting a timeline of business events. Used to identify bottlenecks in production systems. Measures time in business day units.
 
 ## Usage
